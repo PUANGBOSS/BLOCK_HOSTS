@@ -1,0 +1,17 @@
+u       localhost
+::1             ip6-localhost
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 pingma.qq.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 dlied1.qq.com
+0.0.0.0 down.qq.com
+0.0.0.0 119.28.164.202
+0.0.0.0 182.254.116.117
+0.0.0.0 vmp.qq.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 file-igamecj.akamaized.net
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 log.tbs.qq.com
+0.0.0.0 cfg.imtt.qq.com
+0.0.0.0 soft.tbs.imtt.qq.com
